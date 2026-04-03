@@ -1,9 +1,10 @@
 # Hi, I'm Shravani 👋
 
-💻 Full Stack Developer (MERN Stack)  
-🚀 Passionate about building web applications  
+💻 Full Stack Developer (MERN Stack)    
+🚀 Passionate about building full-stack web applications  
 📚 Currently learning Cloud & DevOps  
 
+🔍 Looking for internship opportunities
 ---
 
 ## 🛠️ Tech Stack
