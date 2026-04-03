@@ -19,13 +19,13 @@
 ### 🛒 MERN E-commerce App
 - Full-stack app with product listing, cart & admin panel  
 - Tech: React, Node.js, MongoDB  
-- 🔗 GitHub: (link)  
-- 🔗 Live Demo: (link)
+- 🔗 GitHub: (https://github.com/shravani-n-10/feedback-collector-webapp)  
+
 
 ### 🎓 Student Registration System
 - Manage student records with CRUD operations  
 - Tech: Node.js, Express, MongoDB  
-- 🔗 GitHub: (link)
+- 🔗 GitHub: (https://github.com/shravani-n-10/student-registratio)
 
 ---
 
