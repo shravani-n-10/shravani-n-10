@@ -37,7 +37,7 @@
 ### 🎓 Student Registration System
 - CRUD-based system to manage student records  
 - Tech: Node.js, Express, MongoDB  
-- 🔗 GitHub: https://github.com/shravani-n-10/student-registratio
+- 🔗 GitHub: https://github.com/shravani-n-10/student-registration
 
 ---
 
