@@ -1,35 +1,60 @@
 # Hi, I'm Shravani 👋
 
-💻 Full Stack Developer (MERN Stack)    
-🚀 Passionate about building full-stack web applications  
+💻 Full Stack Developer (MERN)  
+🚀 Passionate about building real-world web applications  
 📚 Currently learning Cloud & DevOps  
-
-🔍 Looking for internship opportunities
----
-
-## 🛠️ Tech Stack
-- Frontend: React, Tailwind CSS
-- Backend: Node.js, Express
-- Database: MongoDB
-- Tools: Git, GitHub, VS Code,Antigravity
+🎯 Open to internship opportunities  
 
 ---
 
-## 📌 Projects
+## 🛠 Tech Stack
 
-### 🛒 MERN E-commerce App
-- Full-stack app with product listing, cart & admin panel  
-- Tech: React, Node.js, MongoDB  
-- 🔗 GitHub: (https://github.com/shravani-n-10/feedback-collector-webapp)  
+### Frontend
+- React.js
+- HTML, CSS, JavaScript
+- Tailwind CSS
 
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+
+### Tools
+- Git, GitHub, VS Code
+
+---
+
+## 🚀 Projects
+
+### 📝 Feedback Collector App
+- Smart web application to collect and manage user feedback  
+- Helps analyze and organize feedback efficiently  
+- Tech: React, Node.js, Express, MongoDB  
+- 🔗 GitHub: https://github.com/shravani-n-10/feedback-collector-webapp
 
 ### 🎓 Student Registration System
-- Manage student records with CRUD operations  
+- CRUD-based system to manage student records  
 - Tech: Node.js, Express, MongoDB  
-- 🔗 GitHub: (https://github.com/shravani-n-10/student-registratio)
+- 🔗 GitHub: https://github.com/shravani-n-10/student-registratio
 
 ---
 
-## 📫 Connect With Me
+## 📊 GitHub Stats
+
+![Shravani's GitHub stats](https://github-readme-stats.vercel.app/api?username=shravani-n-10&show_icons=true)
+
+---
+
+## 📫 Contact Me
+
 - LinkedIn: https://www.linkedin.com/in/shravani-n-0b1083333
 - email:shravanis606@gmail.com
+
+
+---
+
+⭐ Thanks for visiting my profile!
+
+
